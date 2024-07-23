@@ -1,0 +1,14 @@
+C:\ISP\ISPprogram\bin\Debug\net8.0\ISPprogram.exe
+C:\ISP\ISPprogram\bin\Debug\net8.0\ISPprogram.deps.json
+C:\ISP\ISPprogram\bin\Debug\net8.0\ISPprogram.runtimeconfig.json
+C:\ISP\ISPprogram\bin\Debug\net8.0\ISPprogram.dll
+C:\ISP\ISPprogram\bin\Debug\net8.0\ISPprogram.pdb
+C:\ISP\ISPprogram\obj\Debug\net8.0\ISPprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISP\ISPprogram\obj\Debug\net8.0\ISPprogram.AssemblyInfoInputs.cache
+C:\ISP\ISPprogram\obj\Debug\net8.0\ISPprogram.AssemblyInfo.cs
+C:\ISP\ISPprogram\obj\Debug\net8.0\ISPprogram.csproj.CoreCompileInputs.cache
+C:\ISP\ISPprogram\obj\Debug\net8.0\ISPprogram.dll
+C:\ISP\ISPprogram\obj\Debug\net8.0\refint\ISPprogram.dll
+C:\ISP\ISPprogram\obj\Debug\net8.0\ISPprogram.pdb
+C:\ISP\ISPprogram\obj\Debug\net8.0\ISPprogram.genruntimeconfig.cache
+C:\ISP\ISPprogram\obj\Debug\net8.0\ref\ISPprogram.dll
